@@ -1,2 +1,2 @@
-*Emphasize* Git Basics Proj at coding academy
-**Strong** By kedarguy
+*Git Basics Proj at coding academy*
+**By Guy Kedar**
